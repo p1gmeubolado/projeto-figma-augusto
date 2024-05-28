@@ -19,6 +19,7 @@ body{
     margin-left: 983px;
     margin-top: 50px;
     width: 267px;
+    font-family: Montserrat;
 }
 
 a{
@@ -47,6 +48,29 @@ a{
     text-align: justify;
 }
 
+.text2{
+    position: absolute;
+    top: 400px;
+    left: 901px;
+    width: 469px;
+    height: 336px;
+    font-size: 24px;
+    color: white;
+    text-align: justify;
+}
+
+.text3{
+    position: absolute;
+    top: 550px;
+    left: 901px;
+    width: 469px;
+    height: 336px;
+    font-size: 24px;
+    color: white;
+    text-align: justify;
+}
+
+
 .img{
     width: 400px;
     height: 70px;
@@ -60,5 +84,6 @@ a{
     left: 50px;
     font-size: 40px;
     color: #fff;
+    font-family: nunito;
     
 }

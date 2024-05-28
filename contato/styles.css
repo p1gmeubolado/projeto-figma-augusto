@@ -1,0 +1,139 @@
+:root{
+    --width:150px;
+    --height:225px;
+}
+
+.cabecalho{
+    position: static;
+}
+
+body{
+    background-color: #7C8034;
+    ;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    justify-content: space-evenly;
+}
+
+.navegacao{
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    word-spacing: 9px;
+    margin-left: 983px;
+    margin-top: 50px;
+    width: 267px;
+    font-family: Montserrat;}
+
+.haikai{
+    height: 35px;
+    width: 150px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+
+.img{
+    width: 400px;
+    height: 70px;
+    margin-top: 58px;
+    margin-left: 0 ;
+}
+
+.kalma{
+    position: absolute;
+    top: 120px;
+    left: 50px;
+    font-size: 40px;
+    color: #fff;
+    font-family: nunito;
+    
+    
+}
+
+.text{
+    font-family: nunito;
+    font-size: 48px;
+    line-height: 65.47px;
+    position: absolute;
+    top: 330px;
+    left: 150px;
+    color: #fff;
+}
+
+.setinha{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 434px;
+    left: 610px;
+}
+
+.imagens{
+    position: absolute;
+    left: 970px;
+    top: 145px;
+    height: 465px;
+    width: 480px;
+}
+
+.fut{
+ width: 100%;
+ position: absolute;
+ bottom: 0;
+ left: 0;
+}
+
+.endereco{
+ height: 46px;
+ width: 126px;  
+ position: absolute; 
+left: 50px;
+top: 750px;
+z-index: 1;
+
+
+}
+
+.haikai2{
+    width: 150px;
+    height: 35px;
+    position: absolute;
+    top: 750px;
+    left: 680px;
+    padding: 0px 0.18px 0px 0.18px;
+    gap: 0px;
+    opacity: 0px;
+    z-index: 1;
+
+}
+
+.copy{
+    position: absolute;
+    width: 185px;
+    height: 12px;
+    top: 811px;
+    left: 670px;
+    gap: 0px;
+    opacity: 0px;
+    z-index: 1;
+
+}
+
+.redes{
+    position: absolute;
+    width: 118px;
+    height: 32px;
+    top: 752px;
+    left: 1450px;
+    gap: 0px;
+    opacity: 0px;
+    z-index: 1;
+
+}
+
+
+
